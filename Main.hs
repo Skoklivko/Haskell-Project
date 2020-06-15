@@ -1,8 +1,3 @@
---
--- MATHFUN
---
--- UP833998
---
 
 import Data.Char
 import Text.Printf
